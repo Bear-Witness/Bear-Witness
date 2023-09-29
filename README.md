@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bear-Witness
-- 👀 I’m interested (apparently) in computer science, data science, physical modelling , applied and pure mathematics
-- 🌱 I’m currently learning optimization and embedded systems
-- 📫 you can reach me via this github account, firstly
+- 👋 Hi, I’m @Bear-Witness.
+- 👀 I’m interested in computer science, data science, machine learning, physics modelling and applied and pure mathematics.
+- 🌱 I’m currently learning optimization and embedded systems.
+- 📫 you can reach me via this github accoun!
 
 <!---
 Bear-Witness/Bear-Witness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
